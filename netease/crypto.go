@@ -6,7 +6,7 @@ import (
 	"crypto/cipher"
 	"encoding/base64"
 	"fmt"
-	"github.com/winterssy/music-get/utils"
+	"github.com/fengshuu/music-get/utils"
 	"math/big"
 	"math/rand"
 	"time"

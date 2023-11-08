@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/winterssy/music-get.svg?branch=master)](https://travis-ci.org/winterssy/music-get)
 [![golang.org](https://img.shields.io/badge/golang-1.12-blue.svg)](https://golang.org)
-[![Latest Release](https://img.shields.io/github/release/winterssy/music-get.svg)](https://github.com/winterssy/music-get/releases)
+[![Latest Release](https://img.shields.io/github/release/winterssy/music-get.svg)](https://github.com/fengshuu/music-get/releases)
 [![License GPL-3.0](https://img.shields.io/github/license/winterssy/music-get.svg)](/LICENSE)
 
 [网易云音乐](https://music.163.com) | [QQ音乐](https://y.qq.com) 下载助手，支持一键下载单曲/专辑/歌单以及歌手热门歌曲，并自动更新音乐标签。
@@ -13,7 +13,7 @@
 
 ## 下载安装
 
-你可以前往 [Releases](https://github.com/winterssy/music-get/releases) 标签下载程序的最新版本，或者克隆项目源码自行编译。
+你可以前往 [Releases](https://github.com/fengshuu/music-get/releases) 标签下载程序的最新版本，或者克隆项目源码自行编译。
 
 ## 如何使用？
 

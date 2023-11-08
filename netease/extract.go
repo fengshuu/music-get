@@ -1,7 +1,7 @@
 package netease
 
 import (
-	"github.com/winterssy/music-get/common"
+	"github.com/fengshuu/music-get/common"
 )
 
 func ExtractMP3List(songs []Song, savePath string) ([]*common.MP3, error) {

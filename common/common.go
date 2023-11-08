@@ -3,8 +3,8 @@ package common
 import (
 	"errors"
 	"github.com/bogem/id3v2"
-	"github.com/winterssy/music-get/utils"
-	"github.com/winterssy/music-get/utils/logger"
+	"github.com/fengshuu/music-get/utils"
+	"github.com/fengshuu/music-get/utils/logger"
 	"gopkg.in/cheggaaa/pb.v1"
 	"io"
 	"io/ioutil"

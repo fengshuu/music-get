@@ -2,7 +2,7 @@ package tencent
 
 import (
 	"encoding/json"
-	"github.com/winterssy/music-get/common"
+	"github.com/fengshuu/music-get/common"
 	"math/rand"
 	"strconv"
 	"time"

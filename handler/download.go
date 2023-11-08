@@ -2,8 +2,8 @@ package handler
 
 import (
 	"fmt"
-	"github.com/winterssy/music-get/common"
-	"github.com/winterssy/music-get/utils/logger"
+	"github.com/fengshuu/music-get/common"
+	"github.com/fengshuu/music-get/utils/logger"
 	"os"
 	"path/filepath"
 	"sync"

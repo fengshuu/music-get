@@ -3,8 +3,8 @@ package netease
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/winterssy/music-get/common"
-	"github.com/winterssy/music-get/utils"
+	"github.com/fengshuu/music-get/common"
+	"github.com/fengshuu/music-get/utils"
 	"net/http"
 	"net/url"
 	"path/filepath"

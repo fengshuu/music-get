@@ -3,8 +3,8 @@ package tencent
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/winterssy/music-get/common"
-	"github.com/winterssy/music-get/utils"
+	"github.com/fengshuu/music-get/common"
+	"github.com/fengshuu/music-get/utils"
 	"path/filepath"
 )
 

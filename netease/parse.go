@@ -2,7 +2,7 @@ package netease
 
 import (
 	"fmt"
-	"github.com/winterssy/music-get/common"
+	"github.com/fengshuu/music-get/common"
 	"regexp"
 	"strconv"
 )

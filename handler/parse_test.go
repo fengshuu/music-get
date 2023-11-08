@@ -1,9 +1,9 @@
 package handler
 
 import (
-	"github.com/winterssy/music-get/common"
-	"github.com/winterssy/music-get/netease"
-	"github.com/winterssy/music-get/tencent"
+	"github.com/fengshuu/music-get/common"
+	"github.com/fengshuu/music-get/netease"
+	"github.com/fengshuu/music-get/tencent"
 	"testing"
 )
 

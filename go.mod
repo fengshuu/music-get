@@ -1,4 +1,4 @@
-module github.com/winterssy/music-get
+module github.com/fengshuu/music-get
 
 require (
 	github.com/bogem/id3v2 v1.1.1

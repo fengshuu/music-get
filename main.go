@@ -2,10 +2,10 @@ package main
 
 import (
 	"flag"
-	"github.com/winterssy/music-get/common"
-	"github.com/winterssy/music-get/handler"
-	"github.com/winterssy/music-get/utils"
-	"github.com/winterssy/music-get/utils/logger"
+	"github.com/fengshuu/music-get/common"
+	"github.com/fengshuu/music-get/handler"
+	"github.com/fengshuu/music-get/utils"
+	"github.com/fengshuu/music-get/utils/logger"
 )
 
 func main() {
